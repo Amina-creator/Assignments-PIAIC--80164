@@ -1,0 +1,1 @@
+document.write ("Writen in js")
